@@ -12,5 +12,3 @@ class Enemy(Sprite):
 
     def get_damage(self):
         self.health -= 1
-
-        
